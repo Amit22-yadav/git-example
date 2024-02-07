@@ -1,1 +1,2 @@
 Some example text for the first file.
+Some example text.
